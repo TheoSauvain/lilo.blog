@@ -15,7 +15,7 @@ description = ""
 
 Es ist 6:40 Uhr und der Betroffene Herr Niquille schafft es nicht ohne ein koffeinhaltiges Getränk in den Tag zu starten. Jeremy Niquille arbeitet für das Bundesamt für Sozialversicherungen und ist starker Koffeinkonsument. Wir treffen ihn im Spitalackerpark, um ein Interview mit ihm zu führen. Doch was ist dieses ominöse Koffein, welches in vielen beliebten Getränken der Menschen vorhanden ist? Um diese Frage zu beantworten, suchen wir heute den Rat des Experten Herrn Hagmann. Er ist Kardiologe an der Kardiologischen Praxis Kirchenfeld und hat des Öfteren Patienten zu behandeln, deren Leiden mit Koffein in Verbindung steht.
 
-![Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein_-_Caffeine.svg](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/1920px-koffein_-_caffeine.svg.png)
+![Coffein-Wikipedia https://de.wikipedia.org/wiki/Coffein#/media/Datei:Koffein_-_Caffeine.svg](koffein_-_caffeine.svg.png)
 
 Koffein, auch als Teein bekannt, ist ein Alkaloid und wirkt beim Menschen stimulierend. Es ist in über 60 Pflanzen enthalten und entsprechend in vielen Nahrungsmitteln vorzufinden, vor allem in Getränken. So enthält eine Tasse Kaffee 30 – 100 mg, ein Energy-Drink 80 mg / Dose und 100 g dunkle Schokolade 90 mg Koffein. Pro Tag sollte man maximal 400 mg Koffein zu sich nehmen. Wenn Sie jetzt rechnen, wie viel Kaffee oder Energy-Drinks Sie pro Tag trinken, merken Sie vielleicht, dass 400 mg pro Tag schnell erreicht sind. Doch was macht ein übermässiger Konsum mit uns und bist du Koffein-abhängig? Zu diesen Fragen später mehr, denn um zu verstehen, ob jemand abhängig ist, muss man erst wissen, wie genau der Stoff wirkt.
 
