@@ -9,7 +9,7 @@ description = ""
 +++
 **Kaffee, Energy-Drinks und Cola sind aus unserem Alltag kaum wegzudenken. Heutzutage trinken immer mehr Menschen koffeinhaltige Getränke, doch immer wieder hört man Sätze wie: Es führt zu Herzrhythmusstörung, es trocknet aus, es ist schädlich. Vor einigen Jahren verstarb sogar ein gesunder 16-Jähriger in den USA, als er nur drei koffeinhaltige Getränke innerhalb von zwei Stunden zu sich nahm. Also stellen wir uns die Frage: Ist Koffeinkonsum wirklich unbedenklich?**
 
-![Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen ](https://louisblg.netlify.app/koffein-der-versteckte-feind-in-deiner-tasse/whatsapp-bild-2023-04-27-um-22.47.37.jpg)
+![Foto: Théo Sauvain, 27.04.2023; Koffein aus Kaffeebohnen ](whatsapp-bild-2023-04-27-um-22.47.37.jpg)
 
 ## **Koffein: Das meistkonsumierte Stimulans der Welt**
 
